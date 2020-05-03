@@ -8,3 +8,8 @@ This repository contains the implementation of reinforcement learning algorithm,
 
 `pip3 intsall -r requirements.txt`
 
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
+
+
