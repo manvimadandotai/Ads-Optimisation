@@ -10,7 +10,7 @@ This repository contains the implementation of reinforcement learning algorithm,
 
 
 # Installation
-Clone this repository: ------
+Clone this repository: https://github.com/manvimadan12/Ads-Optimisation.git
 git clone 
 or click Download ZIP in right panel of repository and extract the code
 
