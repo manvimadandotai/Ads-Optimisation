@@ -9,6 +9,16 @@ This repository contains the implementation of reinforcement learning algorithm,
 `pip3 intsall -r requirements.txt`
 
 
+# Installation
+Clone this repository: ------
+git clone 
+or click Download ZIP in right panel of repository and extract the code
+
+# Steps to run the notebook
+* Open Jupyter Notebook : -------.ipynb
+* Run each cell to see the code in action
+
+
 # License
 [MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
 
