@@ -17,9 +17,7 @@ Clone this repository: https://github.com/manvimadan12/Ads-Optimisation.git or
 git clone 
 or click Download ZIP in right panel of repository and extract the code
 
-# Steps to run the notebook
-* Open Jupyter Notebook : -------.ipynb
-* Run each cell to see the code in action
+
 
 
 # License
