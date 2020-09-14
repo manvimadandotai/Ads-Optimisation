@@ -17,6 +17,9 @@ Clone this repository: https://github.com/manvimadan12/Ads-Optimisation.git or
 git clone 
 or click Download ZIP in right panel of repository and extract the code
 
+# Running the scripts
+* Run Thompson Sampling.py to see the implementation of Thompson Sampling
+* Run UCB.py to see the implementation of UCB
 
 
 
